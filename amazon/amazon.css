@@ -1,0 +1,40 @@
+.navbar{
+    color : white;
+    background-color:  #085746;;
+    width :100%;
+    height : 50px;
+    display :flex;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height : 50px;
+    width : 120px;
+}
+.log1{
+    height : 50px;
+    width : 120px;
+    background-image: url(Amazon_logo.jpg);
+    background-size: cover;
+}
+.nav-add{
+    
+}
+.nav-add span{
+    color :#cccccc;
+    font-size: 0.85rem;
+    padding-top: 10px;
+}
+.nav-add p{
+    color : #ffffff;
+    font-size: 1rem;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.nav-search{
+    display: flex;
+    
+    height: 35px;
+    background-color: #ffffff;
+    color : #0f1111;
+
+}
